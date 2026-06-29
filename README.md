@@ -6,31 +6,11 @@ A Flutter-based time tracking and audit app built specifically for teachers — 
 
 ## Screenshots
 
-<!-- Dashboard -->
-<img src="screenshots/Screenshot_20260629_140133.jpg" width="250"/>
+<img src="screenshots/Screenshot_20260629_140133.jpg" width="250"/> <img src="screenshots/Screenshot_20260629_140148.jpg" width="250"/> <img src="screenshots/Screenshot_20260629_140201.jpg" width="250"/>
 
-<img src="screenshots/Screenshot_20260629_140148.jpg" width="250"/>
+<img src="screenshots/Screenshot_20260629_140207.jpg" width="250"/> <img src="screenshots/Screenshot_20260629_140215.jpg" width="250"/> <img src="screenshots/Screenshot_20260629_140224.jpg" width="250"/>
 
-<!-- Add Task - Teaching Form -->
-<img src="screenshots/Screenshot_20260629_140201.jpg" width="250"/>
-
-<!-- Add Task - Primary Module Dropdown -->
-<img src="screenshots/Screenshot_20260629_140207.jpg" width="250"/>
-
-<!-- Add Task - Sub Category -->
-<img src="screenshots/Screenshot_20260629_140215.jpg" width="250"/>
-
-<!-- Add Task - Personal Module -->
-<img src="screenshots/Screenshot_20260629_140224.jpg" width="250"/>
-
-<!-- Settings - Daily Targets & Cloud -->
-<img src="screenshots/Screenshot_20260629_140233.jpg" width="250"/>
-
-<!-- Settings - Connected State -->
-<img src="screenshots/Screenshot_20260629_140240.jpg" width="250"/>
-
-<!-- Analytics & Reports -->
-<img src="screenshots/Screenshot_20260629_140257.jpg" width="250"/>
+<img src="screenshots/Screenshot_20260629_140233.jpg" width="250"/> <img src="screenshots/Screenshot_20260629_140240.jpg" width="250"/> <img src="screenshots/Screenshot_20260629_140257.jpg" width="250"/>
 
 ---
 
